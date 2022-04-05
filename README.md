@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikeecode
+- 👋 Hi, I’m __@ikeecode.mk__
 - 👀 I’m interested in anything related to DATA.
 - 🌱 I’m currently learning python, javascript and SQL.
 - 💞️ I’m looking to collaborate on any python or data-driven projects.
