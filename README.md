@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any python or data-driven projects.
 - 📫 How to reach me : 
 -                      gmail: ikeecode@gmail.com
--                      twitter: ikeejs
 -                      
 
 <!---
