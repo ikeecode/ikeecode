@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikeecode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<img align="right" height="180" src="https://avatars.githubusercontent.com/u/146910021?v=4" style="border-radius:50%;box-shadow:0px 0px 15px #ff79c6;" />
+<img align="right" height="180" src="img.png" style="border-radius:50%;box-shadow:0px 0px 15px #ff79c6;" />
 
 <h3 align="left">💻 Tech Stack</h3>
 
@@ -92,5 +92,5 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/ikeecode/ikeecode/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/ikeecode/ikeecode/blob/output/snake.svg" alt="Snake animation" />
 </div>
