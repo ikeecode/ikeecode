@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikeecode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<img align="right" height="180" src="img.png" style="border-radius:50%;box-shadow:0px 0px 15px #ff79c6;" />
+<img align="right" height="180" src=".idea/img.png" style="border-radius:50%;box-shadow:0px 0px 15px #ff79c6;" />
 
 <h3 align="left">💻 Tech Stack</h3>
 
